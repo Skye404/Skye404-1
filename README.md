@@ -8,3 +8,5 @@ I don't yet know how spacing works in coding.
 *This should be italicized.*
 
 ~mistakes~
+
+**Why do I have to leave an empty line in the coding when the text will show up _directly beneath_ the previous line?**
